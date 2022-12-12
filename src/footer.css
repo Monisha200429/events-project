@@ -1,0 +1,21 @@
+.text-footer {
+	text-align: center;
+  width: 32.97vw;
+  height: 150px;
+	padding: 25px 0;
+	font-family: 'Ubuntu', sans-serif;
+	display: flex;
+	justify-content: center;
+	background-color: rgb(0, 0, 0);
+  color: white;
+  line-height:2;
+}
+.footer{
+  display: flex;
+  margin: auto;
+  background: cover;
+   margin-top: 14vw;
+  width: auto;
+  /* position: fixed; */
+  
+}
